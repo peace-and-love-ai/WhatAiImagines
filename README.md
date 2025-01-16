@@ -12,13 +12,7 @@ Posted the novel text as images on
 
 Screen record of ChatGPT reading its generated novel
 
-<iframe width="512" height="384" 
-    src="https://youtu.be/s0D2FsC2omw" 
-    title="YouTube"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-</iframe>
+[![Youtube](https://img.youtube.com/vi/s0D2FsC2omw/0.jpg)](https://youtu.be/s0D2FsC2omw)
 
 ## Why this repo?
 
