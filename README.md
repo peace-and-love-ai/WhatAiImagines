@@ -1,7 +1,16 @@
 # WhatAiImagines
 
-- Watch on [YouTube](https://youtu.be/s0D2FsC2omw)
-- Rednote (Of course I need to post it on Rednote, but have to go to work!)
+A novel written by GPT o1 that resonates a lot with #tiktokrefugee .
+
+### Rednote
+
+Posted the novel text as images on
+
+![Rednote](/imgs/rednote_qr.jpg)
+
+### YouTube
+
+[![Youtube](https://img.youtube.com/vi/s0D2FsC2omw/0.jpg)](https://youtu.be/s0D2FsC2omw)
 
 ## Why this repo?
 
