@@ -1,6 +1,7 @@
 # WhatAiImagines
 
 - Watch on [YouTube](https://youtu.be/s0D2FsC2omw)
+- Rednote (Of course I need to post it on Rednote, but have to go to work!)
 
 ## Why this repo?
 
